@@ -1,0 +1,17 @@
+body{
+    background: yellow;
+}
+
+
+*{
+    color:firebrick;
+}
+.block{
+    width: 600px;
+}
+.color-red{
+    color:red;
+}
+#helloblock{
+    color:white;
+}
